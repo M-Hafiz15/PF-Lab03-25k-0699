@@ -1,11 +1,11 @@
 # PF-Lab03-25k-0699
-This repository contains Lab 03 work for Programming Fundamentals.
-# About Me
-**Name:** Muhammad Hafiz  
-**Roll Number:** 25K-0699
-**University:** FAST NUCES Karachi  
-## My Programming Interests
-- Exploring coding and problem-solving
-- Web development (HTML, CSS, JavaScript)
-- Artificial Intelligence and Machine Learning
-- Open-source contributions
+## TOPICS
+  - Github
+  - C language
+  - Lab
+## Step to complete 
+  1. First Repository
+  2. Branch and Commit
+  3. Pull Request and Merge
+
+**_These steps are extremely important_**
